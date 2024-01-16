@@ -1,0 +1,5 @@
+pandas
+sentencepiece
+transformers==4.30.2
+torch_geometric
+torchmetrics
